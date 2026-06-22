@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(Get-ChildItem \"C:\\\\Users\\\\David\\\\gpt-privacy-analysis\")",
+      "Bash(Select-Object Name, Length)"
+    ]
+  }
+}
